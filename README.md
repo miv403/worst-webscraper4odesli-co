@@ -19,4 +19,4 @@ bu kafa karışıklığına ya da kullanımınızın aksamasına neden olabilir.
 
 #### not-1:
 
-piton hakkındaki bilgim çok az olmasına rağmen işimi görebilecek bir sikript yazmaya çalıştım. bu araç kullanımınıza uygun olmayabilir :D
+bazı bağlantılar yutub eşleşmesi olmadığı için oluşturulamayabilir. olmayanları elemek için ilgili işlem numarası ile `playlist.txt` içerisindeki satırı eşleştirmeniz yeterli.
