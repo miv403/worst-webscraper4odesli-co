@@ -1,5 +1,5 @@
 # odesli.co için web scraper
-    odesli.co sitesini kullanarak spotify bağlantılarını yutub bağlantılarına dönüştüren piton sikripti.
+> odesli.co sitesini kullanarak spotify bağlantılarını yutub bağlantılarına dönüştüren piton sikripti.
 
 ## kullanımı:
 
