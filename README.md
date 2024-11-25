@@ -4,7 +4,7 @@ date: 2023-08-12
 ---
 # odesli.co için web scraper
 
-> odesli.co sitesini kullanarak spotify bağlantılarını yutub bağlantılarına dönüştüren piton sikripti.
+> odesli.co sitesini kullanarak spotify bağlantılarını yutub bağlantılarına dönüştüren piton scripti.
 
 ## kullanımı:
 
@@ -31,8 +31,3 @@ eğer dosyayı silmez ya da içini temizlemezseniz eski bağlantılardan itibare
 ### not-1:
 
 bazı bağlantılar yutub eşleşmesi olmadığı için oluşturulamayabilir. olmayanları elemek için ilgili işlem numarası ile `playlist.txt` içerisindeki satırı eşleştirmeniz yeterli.
-
-### not-2:
-
->[!IMPORTANT]
-> bu program bütünüyle eğlence amaçlı hazırlanmıştır.
